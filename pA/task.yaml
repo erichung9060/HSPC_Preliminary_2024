@@ -2,7 +2,7 @@ name: pA
 title: 鴨鴨壓鴨
 time_limit: 2
 memory_limit: 256
-n_input: 62
+n_input: 76
 token_mode: disabled
 public_testcases: all
 infile: ""
