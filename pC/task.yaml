@@ -1,0 +1,9 @@
+name: pC
+title: 東西南北京烤鴨
+time_limit: 5
+memory_limit: 1024
+n_input: 45
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""

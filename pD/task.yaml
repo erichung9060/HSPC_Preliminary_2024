@@ -1,0 +1,9 @@
+name: pD
+title: 平行世界的空島
+time_limit: 1
+memory_limit: 256
+n_input: 60
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""

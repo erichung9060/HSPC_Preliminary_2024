@@ -1,0 +1,9 @@
+name: pE
+title: 鴨鴨呱呱！
+time_limit: 5
+memory_limit: 256
+n_input: 132
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""

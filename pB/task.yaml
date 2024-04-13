@@ -1,0 +1,9 @@
+name: pB
+title: 美麗橋
+time_limit: 3
+memory_limit: 256
+n_input: 128
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""

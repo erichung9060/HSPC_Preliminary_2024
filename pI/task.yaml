@@ -1,0 +1,9 @@
+name: pI
+title: 鴨鴨環繞世界
+time_limit: 3
+memory_limit: 512
+n_input: 50
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""

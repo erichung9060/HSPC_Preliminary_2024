@@ -1,0 +1,9 @@
+name: pG
+title: 鴨鴨數列
+time_limit: 1
+memory_limit: 256
+n_input: 13
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""

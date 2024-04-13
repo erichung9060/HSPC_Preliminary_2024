@@ -1,0 +1,9 @@
+name: pH
+title: 鴨鴨抗議
+time_limit: 10
+memory_limit: 256
+n_input: 1
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""
